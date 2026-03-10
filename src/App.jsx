@@ -2,6 +2,7 @@ import Goals from "./components/Goals"
 import Hero from "./components/Hero"
 import ImagSlider from "./components/ImagSlider"
 import Mission from "./components/Mission"
+import ProductCards from "./components/ProductCards"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Mission />
       <ImagSlider />
       <Goals />
+      <ProductCards />
     </div>
   )
 }
